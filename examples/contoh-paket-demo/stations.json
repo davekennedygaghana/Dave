@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "bank": {
+    "name": "Contoh paket ZIP (demo)",
+    "demo": true,
+    "description": "Contoh paket impor. Semua stasiun di sini adalah demo sintetis; gambar uji BUKAN gambar medis."
+  },
+  "stations": [
+    {
+      "id": "demo-zip-spine-01",
+      "topic": "spine",
+      "title": "Stasiun Demo D — Nyeri punggung bawah dengan keluhan baru",
+      "vignette": "Laki-laki 45 tahun, pekerja gudang, mengalami nyeri punggung bawah sejak 1 minggu setelah mengangkat beban. Sejak pagi ini ia merasakan kedua tungkai lemah, kesemutan di daerah sekitar anus dan selangkangan, serta sulit memulai berkemih.",
+      "clinicalQuestion": "Apa diagnosis kerja Anda? Pemeriksaan fisik apa yang wajib Anda lakukan sekarang?",
+      "followupQuestion": "Gambar di atas hanya gambar uji penampil (bukan gambar medis) — jawab berdasarkan laporan teks. Apa pemeriksaan penunjang dan tata laksana Anda, dan seberapa mendesak?",
+      "followupInfo": "Pemeriksaan: saddle anaesthesia (+), tonus sfingter ani menurun, refleks Achilles bilateral menurun. Bladder scan pasca-berkemih: residu 650 mL. Laporan MRI lumbal (teks): herniasi diskus L4–L5 sentral besar yang menekan cauda equina.",
+      "imagingRequired": false,
+      "assets": [
+        { "path": "assets/uji-A.svg", "label": "Uji A", "modality": "Gambar uji non-medis", "caption": "Gambar uji A — bukan gambar medis." },
+        { "path": "assets/uji-B.svg", "label": "Uji B", "modality": "Gambar uji non-medis", "caption": "Gambar uji B — bukan gambar medis." }
+      ],
+      "key": {
+        "clinical": "Diagnosis kerja: cauda equina syndrome (curiga herniasi diskus lumbal sentral). Wajib: pemeriksaan neurologis tungkai lengkap (motorik, sensorik, refleks), sensasi perianal/saddle, pemeriksaan colok dubur (tonus sfingter dan kontraksi volunter), penilaian retensi urin (bladder scan residu pasca-berkemih).",
+        "followup": "Cauda equina syndrome dengan retensi urin (CES-R) akibat herniasi diskus L4–L5 sentral. MRI lumbal emergensi (sudah ada). Tata laksana: dekompresi bedah segera (diskektomi/laminektomi) sesegera mungkin, idealnya < 48 jam dan lebih baik secepatnya; pasang kateter, dokumentasikan status neurologis, edukasi prognosis fungsi kandung kemih/seksual."
+      },
+      "discussion": [
+        { "heading": "Diagnosis", "body": "Cauda equina syndrome dengan retensi urin." },
+        { "heading": "Langkah awal", "body": "Pemeriksaan saddle sensation dan colok dubur, bladder scan, MRI emergensi." },
+        { "heading": "Tata laksana", "body": "Dekompresi bedah segera." },
+        { "heading": "Kesalahan umum", "body": "Menunda MRI hingga keesokan hari; tidak memeriksa sensasi perianal; menganggap retensi urin karena analgesik." }
+      ],
+      "checklist": {
+        "clinical": [
+          { "id": "c1", "text": "Menyebut cauda equina syndrome", "weight": 2 },
+          { "id": "c2", "text": "Memeriksa sensasi perianal/saddle dan colok dubur", "weight": 2 },
+          { "id": "c3", "text": "Menilai residu urin pasca-berkemih", "weight": 1 }
+        ],
+        "followup": [
+          { "id": "f1", "text": "MRI lumbal emergensi", "weight": 1 },
+          { "id": "f2", "text": "Dekompresi bedah segera", "weight": 2 },
+          "Pemasangan kateter dan dokumentasi status neurologis"
+        ]
+      }
+    },
+    {
+      "id": "demo-zip-aset-hilang",
+      "topic": "trauma",
+      "title": "Stasiun Demo E — Contoh aset hilang",
+      "vignette": "Contoh entri untuk menguji validasi: stasiun ini mewajibkan imaging, tetapi file gambarnya sengaja tidak disertakan di ZIP.",
+      "clinicalQuestion": "Apa diagnosis kerja Anda?",
+      "followupQuestion": "Interpretasikan gambar.",
+      "imagingRequired": true,
+      "assets": [{ "path": "assets/tidak-ada.jpg", "label": "AP" }],
+      "key": { "clinical": "Contoh.", "followup": "Contoh." },
+      "discussion": [{ "heading": "Catatan", "body": "Stasiun ini harus tercatat 'belum layak' setelah diimpor." }],
+      "checklist": { "clinical": ["Contoh butir"], "followup": ["Contoh butir"] }
+    }
+  ]
+}

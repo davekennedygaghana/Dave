@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "bank": {
+    "name": "GANTI: nama bank Anda, mis. Bank OSCE Ortopedi 2026",
+    "description": "Isi semua kolom bertanda GANTI:. Importer menolak entri yang masih memuat teks GANTI:."
+  },
+  "stations": [
+    {
+      "id": "trauma-001",
+      "topic": "trauma",
+      "title": "GANTI: judul netral, mis. Stasiun Trauma — Nyeri lutut pasca kecelakaan",
+      "vignette": "GANTI: vignette (parafrasekan dari sumber).",
+      "clinicalQuestion": "GANTI: pertanyaan terbuka tahap 1.",
+      "followupQuestion": "GANTI: pertanyaan tahap 2 (interpretasi imaging / informasi lanjutan).",
+      "followupInfo": "Opsional: informasi lanjutan berbentuk teks yang dibuka di tahap 2.",
+      "imagingRequired": true,
+      "assets": [
+        { "path": "assets/trauma-001/a.jpg", "label": "AP", "modality": "X-ray", "caption": "Opsional: keterangan yang baru tampil saat review." },
+        { "path": "assets/trauma-001/b.jpg", "label": "Lateral", "modality": "X-ray" }
+      ],
+      "key": {
+        "clinical": "GANTI: kunci tahap 1.",
+        "followup": "GANTI: kunci tahap 2."
+      },
+      "discussion": [
+        { "heading": "Diagnosis", "body": "GANTI" },
+        { "heading": "Interpretasi imaging", "body": "GANTI" },
+        { "heading": "Diagnosis banding", "body": "GANTI" },
+        { "heading": "Tata laksana", "body": "GANTI" },
+        { "heading": "Kesalahan umum", "body": "GANTI" }
+      ],
+      "checklist": {
+        "clinical": [
+          { "id": "c1", "text": "GANTI: butir spesifik", "weight": 2 },
+          { "id": "c2", "text": "GANTI: butir tanpa bobot → bobot 1" }
+        ],
+        "followup": [{ "id": "f1", "text": "GANTI: butir spesifik", "weight": 1 }]
+      },
+      "source": {
+        "document": "GANTI: nama dokumen persis, mis. OSCE Januari.docx",
+        "scenario": "GANTI: nomor skenario bila diketahui",
+        "page": "GANTI: halaman bila diketahui",
+        "url": "https://drive.google.com/...",
+        "paraphrased": true,
+        "note": "Opsional"
+      }
+    }
+  ]
+}

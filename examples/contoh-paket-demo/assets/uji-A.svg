@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <defs><pattern id="g" width="50" height="50" patternUnits="userSpaceOnUse"><path d="M50 0H0V50" fill="none" stroke="#555" stroke-width="2"/></pattern></defs>
+  <rect width="800" height="1000" fill="#1a1a1a"/>
+  <rect width="800" height="1000" fill="url(#g)"/>
+  <circle cx="400" cy="500" r="300" fill="none" stroke="#bbb" stroke-width="6"/>
+  <path d="M100 500H700M400 200V800" stroke="#bbb" stroke-width="4"/>
+  <text x="400" y="120" fill="#fff" font-family="sans-serif" font-size="44" text-anchor="middle">GAMBAR UJI A</text>
+  <text x="400" y="900" fill="#ffcc66" font-family="sans-serif" font-size="34" text-anchor="middle">BUKAN GAMBAR MEDIS — hanya untuk uji zoom</text>
+  <text x="120" y="160" fill="#fff" font-family="sans-serif" font-size="28">kiri-atas</text>
+  <text x="680" y="860" fill="#fff" font-family="sans-serif" font-size="28" text-anchor="end">kanan-bawah</text>
+</svg>
