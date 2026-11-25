@@ -1,0 +1,98 @@
+{
+  "_catatan": "CONTOH FORMAT IMPOR — teks di dalam tanda <...> adalah placeholder, BUKAN isi medis. Ganti seluruhnya dengan parafrasa dari referensi Anda sendiri. Kolom yang diawali garis bawah diabaikan.",
+  "questions": [
+    {
+      "id": "CONTOH-CBT-0001",
+      "format": "cbt",
+      "category": "trauma",
+      "topic": "<topik>",
+      "subtopic": "<subtopik>",
+      "bodyRegion": "<bagian tubuh>",
+      "difficulty": "sedang",
+      "status": "needs_review",
+      "reference": {
+        "bookTitle": "<nama buku persis seperti di tab Sumber>",
+        "edition": "<edisi>",
+        "chapter": "<nomor dan judul bab>",
+        "pdfPageStart": 123,
+        "pdfPageEnd": 124,
+        "printPage": null,
+        "printPageVerified": false
+      },
+      "content": {
+        "stem": "<vignette dan pertanyaan, parafrasa orisinal>",
+        "options": [
+          { "key": "A", "text": "<pilihan A>", "rationale": "<alasan benar/salah bila didukung sumber; boleh kosong>" },
+          { "key": "B", "text": "<pilihan B>", "rationale": "" },
+          { "key": "C", "text": "<pilihan C>", "rationale": "" },
+          { "key": "D", "text": "<pilihan D>", "rationale": "" },
+          { "key": "E", "text": "<pilihan E>", "rationale": "" }
+        ],
+        "answer": "A",
+        "explanation": "<pembahasan berparafrasa>"
+      }
+    },
+    {
+      "id": "CONTOH-VIVA-0001",
+      "format": "viva",
+      "category": "spine",
+      "topic": "<topik>",
+      "subtopic": "<subtopik>",
+      "bodyRegion": "<bagian tubuh>",
+      "difficulty": "sulit",
+      "status": "draft",
+      "reference": { "bookTitle": "<nama buku>", "edition": "<edisi>", "chapter": "<bab>", "pdfPageStart": 200 },
+      "content": {
+        "stem": "<pertanyaan lisan terstruktur>",
+        "rubric": [
+          { "point": "<poin jawaban 1>", "weight": 2 },
+          { "point": "<poin jawaban 2>", "weight": 1 }
+        ],
+        "explanation": "<pembahasan / jawaban model>"
+      }
+    },
+    {
+      "id": "CONTOH-OSCE-0001",
+      "format": "osce",
+      "category": "hand-upper-extremity",
+      "topic": "<topik>",
+      "subtopic": "<subtopik>",
+      "bodyRegion": "<bagian tubuh>",
+      "difficulty": "sedang",
+      "status": "draft",
+      "reference": { "bookTitle": "<nama buku>", "edition": "<edisi>", "chapter": "<bab>", "pdfPageStart": 310, "pdfPageEnd": 312 },
+      "content": {
+        "instructions": "<instruksi peserta>",
+        "scenario": "<skenario>",
+        "tasks": ["<tugas 1>", "<tugas 2>"],
+        "timeSeconds": 420,
+        "checklist": [
+          { "item": "<butir checklist 1>", "weight": 1, "critical": false },
+          { "item": "<critical step>", "weight": 2, "critical": true }
+        ],
+        "image": null,
+        "explanation": "<pembahasan>"
+      }
+    },
+    {
+      "id": "CONTOH-ESAI-0001",
+      "format": "essay",
+      "category": "Nama kategori baru (dibuat otomatis bila belum ada)",
+      "topic": "<topik>",
+      "subtopic": "<subtopik>",
+      "bodyRegion": "<bagian tubuh>",
+      "difficulty": "mudah",
+      "status": "draft",
+      "reference": { "bookTitle": "<nama buku>", "edition": "<edisi>", "chapter": "<bab>", "pdfPageStart": 45, "printPage": "31", "printPageVerified": true },
+      "content": {
+        "stem": "<pertanyaan uraian>",
+        "outline": ["<butir kerangka jawaban ideal 1>", "<butir 2>"],
+        "rubric": [
+          { "point": "<kriteria 1>", "weight": 3 },
+          { "point": "<kriteria 2>", "weight": 2 }
+        ],
+        "explanation": "<pembahasan>"
+      }
+    }
+  ]
+}

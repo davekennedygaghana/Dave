@@ -1,0 +1,3215 @@
+{
+  "_catatan": "DATA DEMO — bukan soal terverifikasi dan bukan materi medis.",
+  "questions": [
+    {
+      "id": "DEMO-CBT-001",
+      "format": "cbt",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 1. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 1-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 1-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 1-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 1-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 1-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-002",
+      "format": "cbt",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 2. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 2-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 2-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 2-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 2-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 2-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-003",
+      "format": "cbt",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 3. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 3-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 3-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 3-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 3-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 3-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-004",
+      "format": "cbt",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 4. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 4-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 4-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 4-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 4-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 4-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-005",
+      "format": "cbt",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 5. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 5-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 5-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 5-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 5-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 5-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-006",
+      "format": "cbt",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 6. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 6-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 6-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 6-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 6-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 6-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-007",
+      "format": "cbt",
+      "category": "adult-reconstruction",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 7. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 7-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 7-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 7-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 7-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 7-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-008",
+      "format": "cbt",
+      "category": "pediatric",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 8. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 8-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 8-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 8-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 8-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 8-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-009",
+      "format": "cbt",
+      "category": "hand-upper-extremity",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 9. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 9-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 9-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 9-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 9-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 9-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-010",
+      "format": "cbt",
+      "category": "foot-ankle",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 10. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 10-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 10-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 10-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 10-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 10-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-011",
+      "format": "cbt",
+      "category": "oncology",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 11. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 11-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 11-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 11-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 11-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 11-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-012",
+      "format": "cbt",
+      "category": "infection",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 12. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 12-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 12-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 12-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 12-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 12-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-013",
+      "format": "cbt",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 13. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 13-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 13-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 13-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 13-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 13-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-014",
+      "format": "cbt",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 14. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 14-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 14-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 14-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 14-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 14-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-015",
+      "format": "cbt",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 15. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 15-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 15-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 15-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 15-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 15-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-016",
+      "format": "cbt",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 16. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 16-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 16-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 16-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 16-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 16-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-017",
+      "format": "cbt",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 17. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 17-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 17-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 17-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 17-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 17-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-018",
+      "format": "cbt",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 18. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 18-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 18-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 18-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 18-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 18-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-019",
+      "format": "cbt",
+      "category": "adult-reconstruction",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 19. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 19-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 19-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 19-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 19-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 19-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-020",
+      "format": "cbt",
+      "category": "pediatric",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 20. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 20-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 20-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 20-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 20-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 20-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-021",
+      "format": "cbt",
+      "category": "hand-upper-extremity",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 21. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 21-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 21-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 21-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 21-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 21-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-022",
+      "format": "cbt",
+      "category": "foot-ankle",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 22. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 22-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 22-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 22-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 22-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 22-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-023",
+      "format": "cbt",
+      "category": "oncology",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 23. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 23-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 23-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 23-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 23-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 23-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-024",
+      "format": "cbt",
+      "category": "infection",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 24. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 24-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 24-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 24-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 24-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 24-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-025",
+      "format": "cbt",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 25. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 25-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 25-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 25-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 25-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 25-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-026",
+      "format": "cbt",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 26. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 26-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 26-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 26-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 26-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 26-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-027",
+      "format": "cbt",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 27. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 27-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 27-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 27-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 27-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 27-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-028",
+      "format": "cbt",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 28. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 28-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 28-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 28-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 28-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 28-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-029",
+      "format": "cbt",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 29. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 29-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 29-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 29-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 29-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 29-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-030",
+      "format": "cbt",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 30. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 30-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 30-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 30-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 30-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 30-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-031",
+      "format": "cbt",
+      "category": "adult-reconstruction",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 31. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 31-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 31-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 31-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 31-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 31-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-032",
+      "format": "cbt",
+      "category": "pediatric",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 32. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 32-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 32-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 32-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 32-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 32-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-033",
+      "format": "cbt",
+      "category": "hand-upper-extremity",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 33. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 33-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 33-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 33-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 33-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 33-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-034",
+      "format": "cbt",
+      "category": "foot-ankle",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 34. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 34-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 34-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 34-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 34-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 34-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-035",
+      "format": "cbt",
+      "category": "oncology",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 35. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 35-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 35-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 35-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 35-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 35-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-036",
+      "format": "cbt",
+      "category": "infection",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 36. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 36-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 36-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 36-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 36-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 36-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-037",
+      "format": "cbt",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 37. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 37-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 37-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 37-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 37-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 37-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-038",
+      "format": "cbt",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 38. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 38-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 38-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 38-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 38-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 38-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-039",
+      "format": "cbt",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 39. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 39-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 39-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 39-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 39-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 39-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-040",
+      "format": "cbt",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 40. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 40-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 40-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 40-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 40-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 40-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-041",
+      "format": "cbt",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 41. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 41-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 41-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 41-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 41-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 41-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-042",
+      "format": "cbt",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 42. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 42-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 42-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 42-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 42-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 42-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-043",
+      "format": "cbt",
+      "category": "adult-reconstruction",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 43. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 43-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 43-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 43-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 43-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 43-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-044",
+      "format": "cbt",
+      "category": "pediatric",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 44. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan C. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 44-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 44-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 44-C)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 44-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 44-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "C",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan C. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-045",
+      "format": "cbt",
+      "category": "hand-upper-extremity",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 45. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan A. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 45-A)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 45-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 45-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 45-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 45-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "A",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan A. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-046",
+      "format": "cbt",
+      "category": "foot-ankle",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 46. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan D. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 46-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 46-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 46-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 46-D)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 46-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "D",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan D. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-047",
+      "format": "cbt",
+      "category": "oncology",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 47. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan B. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 47-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 47-B)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 47-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 47-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 47-E)",
+            "rationale": "Bukan kunci pada data demo."
+          }
+        ],
+        "answer": "B",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan B. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-CBT-048",
+      "format": "cbt",
+      "category": "infection",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh CBT",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Soal contoh CBT nomor 48. Ini bukan soal medis. Untuk menguji alur penilaian otomatis, jawaban yang dianggap benar adalah pilihan E. Pilihan mana yang Anda pilih?",
+        "options": [
+          {
+            "key": "A",
+            "text": "Pilihan A (teks pengisi demo 48-A)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "B",
+            "text": "Pilihan B (teks pengisi demo 48-B)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "C",
+            "text": "Pilihan C (teks pengisi demo 48-C)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "D",
+            "text": "Pilihan D (teks pengisi demo 48-D)",
+            "rationale": "Bukan kunci pada data demo."
+          },
+          {
+            "key": "E",
+            "text": "Pilihan E (teks pengisi demo 48-E)",
+            "rationale": "Ditetapkan sebagai kunci pada data demo."
+          }
+        ],
+        "answer": "E",
+        "explanation": "[DEMO] Pembahasan contoh: kunci soal demo ini ditetapkan E. Pada soal resmi, bagian ini berisi pembahasan berparafrasa dengan rujukan buku, edisi, bab, dan halaman."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-001",
+      "format": "viva",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 1: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-002",
+      "format": "viva",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 2: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-003",
+      "format": "viva",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 3: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-004",
+      "format": "viva",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 4: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-005",
+      "format": "viva",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 5: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-VIVA-006",
+      "format": "viva",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh VIVA",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] VIVA contoh 6: jelaskan secara singkat tiga hal yang ditampilkan dashboard aplikasi ini.",
+        "rubric": [
+          {
+            "point": "Menyebut progres paket harian (dinilai dari soal yang dijawab dan dinilai)",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut jumlah bank soal dan soal baru tersisa",
+            "weight": 2
+          },
+          {
+            "point": "Menyebut nilai otomatis CBT terpisah dari nilai mandiri",
+            "weight": 1
+          }
+        ],
+        "explanation": "[DEMO] Jawaban contoh hanya menjelaskan fitur aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-001",
+      "format": "osce",
+      "category": "adult-reconstruction",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 1. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-002",
+      "format": "osce",
+      "category": "pediatric",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 2. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-003",
+      "format": "osce",
+      "category": "hand-upper-extremity",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 3. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-004",
+      "format": "osce",
+      "category": "foot-ankle",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 4. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-005",
+      "format": "osce",
+      "category": "oncology",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 5. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-OSCE-006",
+      "format": "osce",
+      "category": "infection",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh OSCE",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "instructions": "[DEMO] Stasiun contoh 6. Baca skenario, kerjakan tugas, lalu nilai diri Anda dengan checklist. Stasiun ini tidak memakai gambar.",
+        "scenario": "[DEMO] Anda diminta mendemonstrasikan cara memakai ruang ujian aplikasi kepada rekan residen.",
+        "tasks": [
+          "Tunjukkan cara menandai (bookmark) soal.",
+          "Tunjukkan cara berpindah soal dengan keyboard.",
+          "Jelaskan beda mode latihan dan mode ujian."
+        ],
+        "timeSeconds": 120,
+        "checklist": [
+          {
+            "item": "Menandai soal dengan tombol Tandai atau tombol T",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Berpindah soal dengan tombol panah kiri/kanan",
+            "weight": 1,
+            "critical": false
+          },
+          {
+            "item": "Menjelaskan bahwa mode ujian menampilkan pembahasan setelah sesi selesai",
+            "weight": 2,
+            "critical": true
+          }
+        ],
+        "image": null,
+        "explanation": "[DEMO] Checklist contoh; critical step yang terlewat membuat stasiun dinilai belum lulus."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-001",
+      "format": "essay",
+      "category": "basic-science",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 1: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-002",
+      "format": "essay",
+      "category": "anatomy",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 2: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-003",
+      "format": "essay",
+      "category": "surgical-approaches",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 3: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-004",
+      "format": "essay",
+      "category": "trauma",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sedang",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 4: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-005",
+      "format": "essay",
+      "category": "spine",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "sulit",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 5: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    },
+    {
+      "id": "DEMO-ESSAY-006",
+      "format": "essay",
+      "category": "sports",
+      "topic": "DEMO — alur aplikasi",
+      "subtopic": "Contoh ESSAY",
+      "bodyRegion": "DEMO (tidak berlaku)",
+      "difficulty": "mudah",
+      "demo": true,
+      "status": "draft",
+      "reviewNote": "DATA DEMO — bukan soal terverifikasi.",
+      "reference": {
+        "bookTitle": "DEMO — bukan buku nyata",
+        "edition": "DEMO",
+        "chapter": "DEMO",
+        "pdfPageStart": null,
+        "printPage": null
+      },
+      "content": {
+        "stem": "[DEMO] Esai contoh 6: uraikan bagaimana aplikasi ini mencegah satu soal terhitung dua kali sebagai soal baru.",
+        "outline": [
+          "Paket harian menyimpan urutan soal unik per tanggal WITA.",
+          "Soal yang sudah dibuka tidak masuk paket baru lagi.",
+          "Remedial dicatat terpisah dari soal baru."
+        ],
+        "rubric": [
+          {
+            "point": "Menjelaskan paket harian unik dan urutannya tetap",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan pencatatan soal yang sudah dibuka",
+            "weight": 2
+          },
+          {
+            "point": "Menjelaskan remedial tidak menambah hitungan soal baru",
+            "weight": 2
+          }
+        ],
+        "explanation": "[DEMO] Kerangka contoh mengenai cara kerja aplikasi; bukan materi medis."
+      }
+    }
+  ]
+}
